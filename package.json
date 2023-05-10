@@ -2,7 +2,7 @@
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Pizzan8t0r.github.io//Photo-port-SPA",
+  "homepage": "https://Pizzan8t0r.github.io/Photo-port-SPA",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
